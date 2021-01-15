@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">pam2451-football</string>
+    <string name="txt_splash_screen">Football 2451 For Football Fans</string>
+
+    <string name="events">Events</string>
+    <string name="teams">Teams</string>
+    <string name="favorites">Favorites</string>
+
+    <string name="player">PLAYERS</string>
+    <string name="overview">OVERVIEW</string>
+    <string name="next">NEXT</string>
+    <string name="previous">PREVIOUS</string>
+
+    <string name="goals">Goals</string>
+    <string name="shots">Shots</string>
+    <string name="lineups">Lineups</string>
+    <string name="goalkeeper">Goalkeeper</string>
+    <string name="defense">Defense</string>
+    <string name="midlefield">Midlefield</string>
+    <string name="forward">Forward</string>
+    <string name="subtitutes">Subtituties</string>
+    <string name="fouls">Fouls</string>
+    <string name="yellowcard">Yellowcard</string>
+    <string name="redcard">Redcard</string>
+
+    <string name="weight">Weight (Kg)</string>
+    <string name="height">Height (M)</string>
+    <string name="show_more">Show All Content</string>
+    <string name="show_less">Show Less</string>
+
+    <string name="strip">-</string>
+    <string name="vs">VS</string>
+    <string name="search">Search</string>
+
+    <string name="add_favorite">Added to Favorite</string>
+    <string name="remove_favorite">Removed to Favorite</string>
+    R.string.add_favorite
+    R.string.remove_favorite
+</resources>

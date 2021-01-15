@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#ff00ddff</color>
+    <color name="colorPrimaryDark">#860000</color>
+    <color name="colorAccent">#ffdf50</color>
+
+    <color name="content_background">#ffffff</color>
+    <color name="head1Text">#ffffff</color>
+    <color name="head2Text">#4d0000</color>
+    <color name="contentText1">#000000</color>
+
+    <color name="notfound">#ffe9e9</color>
+    <color name="line">#4d0000</color>
+    <color name="tabBackground">#da2727</color>
+    <color name="tabIndicatorColor">#ffc800</color>
+    <color name="tabSelectedTextColor">#ffffff</color>
+    <color name="tabTextColor">#ffffff</color>
+    <color name="colorText">#bcbcbc</color>
+
+    <color name="white">#ffffff</color>
+    <color name="Goal">#098700</color>
+    <color name="Shot">#85ff67</color>
+    <color name="Lineups">#840000</color>
+    <color name="Fouls">#840000</color>
+    <color name="Sub">#840000</color>
+    <color name="GK">#d4b400</color>
+    <color name="Def">#004ad4</color>
+    <color name="Mid">#20d400</color>
+    <color name="For">#d40004</color>
+    <color name="YC">#ffd900</color>
+    <color name="RC">#ff0005</color>
+
+</resources>
